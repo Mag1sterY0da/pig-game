@@ -29,8 +29,8 @@ The first player to score 100 or more points wins.
 Project is implementation of game functionality on the website. During gameplay the website will interact intuitively
 clearly.
 Each visit to the page the new game begins, also you can start a new one with a button. This project was built during
-my [JS course](https://www.udemy.com/course/the-complete-javascript-course/). I wrote only JS code; all markup and flowchart
-was already completed.
+my [JS course](https://www.udemy.com/course/the-complete-javascript-course/). I wrote JS code and modified CSS code for
+responsive with given markup.
 
 ## Flowchart
 
