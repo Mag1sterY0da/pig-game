@@ -32,7 +32,7 @@ btnRollEl.addEventListener('click', () => {
   if (playing) {
     const dice = Math.trunc(Math.random() * 6) + 1;
     diceEl.classList.remove('hidden');
-    diceEl.src = `dice-${dice.toString()}.webp`;
+    diceEl.src = `./img/dice-${dice.toString()}.webp`;
     if (dice !== 1) {
       currentScore += dice;
       document.querySelector(`#current--${activePlayer}`).textContent =
