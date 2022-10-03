@@ -9,6 +9,7 @@
 <p align="center">
   <a href="#rules">Game rules</a> •
   <a href="#about-the-project">About The Project</a> •
+  <a href="#flowchart">Flowchart</a> •
   <a href="#demo">Demo</a> •
   <a href="#download">Download</a> 
 </p>
@@ -28,8 +29,12 @@ The first player to score 100 or more points wins.
 Project is implementation of game functionality on the website. During gameplay the website will interact intuitively
 clearly.
 Each visit to the page the new game begins, also you can start a new one with a button. This project was built during
-my [JS course](https://www.udemy.com/course/the-complete-javascript-course/). I wrote only JS code; all markup
+my [JS course](https://www.udemy.com/course/the-complete-javascript-course/). I wrote only JS code; all markup and flowchart
 was already completed.
+
+## Flowchart
+
+![](pig-game-flowchart.png)
 
 ## Demo
 
