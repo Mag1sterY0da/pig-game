@@ -55,7 +55,7 @@ main {
   margin-bottom: 1rem;
 }
 
-.score {
+.check-section {
   font-size: 8rem;
   font-weight: 300;
   color: #c7365f;
@@ -68,7 +68,7 @@ main {
 .player--active .name {
   font-weight: 700;
 }
-.player--active .score {
+.player--active .check-section {
   font-weight: 400;
 }
 
