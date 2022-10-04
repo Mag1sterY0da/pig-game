@@ -9,9 +9,11 @@
 <p align="center">
   <a href="#rules">Game rules</a> •
   <a href="#about-the-project">About The Project</a> •
+  <a href="#built-with">Built with</a> •
   <a href="#flowchart">Flowchart</a> •
   <a href="#demo">Demo</a> •
-  <a href="#download">Download</a> 
+  <a href="#download">Download</a> •
+  <a href="#contact">Contact</a> 
 </p>
 
 ## Rules
@@ -31,6 +33,12 @@ clearly.
 Each visit to the page the new game begins, also you can start a new one with a button. This project was built during
 my [JS course](https://www.udemy.com/course/the-complete-javascript-course/). I wrote JS code and modified CSS code for
 responsive with given markup.
+
+### Built with
+
+[![HTML][html]][html-url]
+[![CSS][css]][css-url]
+[![JS][js]][js-url]
 
 ## Flowchart
 
@@ -52,6 +60,18 @@ line:
 $ git clone https://github.com/Mag1sterY0da/pig-game.git
 ```
 
-## You may also like...
+## Contact
+
+Oleksandr - [@Mag1sterY0da](https://twitter.com/Mag1sterY0da) - oborodavchenko@gmail.com
+
+### Checkout my another projects
 
 * Other project links will be added later
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[html]: https://img.shields.io/badge/html-f16524?style=for-the-badge&logo=html5&logoColor=white
+[html-url]: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference
+[css]: https://img.shields.io/badge/css-2965f1?style=for-the-badge&logo=css3&logoColor=white
+[css-url]: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+[js]: https://img.shields.io/badge/js-ffda3e?style=for-the-badge&logo=javascript&logoColor=black
+[js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
