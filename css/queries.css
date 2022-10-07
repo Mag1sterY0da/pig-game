@@ -56,18 +56,32 @@
     top: 2rem;
   }
 
+  .btn--hold {
+    left: 6rem;
+  }
+
+  .btn--hold,
+  .btn--roll {
+    min-width: 18rem;
+  }
+
   .btn--roll {
     top: 50%;
-    left: 30%;
+    left: 20%;
     transform: translate(-50%, -50%);
   }
 
   .btn--hold {
     top: 50%;
-    left: 70%;
+    left: 80%;
     transform: translate(-50%, -50%);
   }
 
+  .dice {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
 }
 
 /*
